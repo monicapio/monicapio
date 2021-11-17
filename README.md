@@ -18,6 +18,4 @@ Eu sou a Mônica, baiana, psicóloga e entusiasta de tecnologia. Já me aventure
 
 Se quiser trocar uma ideia, me chama no [LinkedIn](https://www.linkedin.com/in/monica-pio/), lá eu também posto sempre vagas novas.☺
 
-<a href="https://www.linkedin.com/in/monica-pio/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-<a href = "monica.pio.assuncao@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 
