@@ -1,6 +1,6 @@
 ### Hello, Devs!!👋
 Eu sou a Mônica, baiana, psicóloga e entusiasta de tecnologia. Já me aventurei um poquinho pelo front-end, passei raiva, mas curti demais toda essa aventura!
-- 💜 Atualmente trabalho como tech recruiter no aiqfome (o app de delivery mais fominha da internê).
+- 💜 Atualmente trabalho como tech recruiter.
 - 📚 Sigo estudando sobre tecnologia e conteúdos de programação.
 - 🎮🎬 Gosto muito de games (mas sou ruim na maioria hahaha) e adoro cinema!
 
